@@ -6,6 +6,7 @@ read spe
 echo "Age: "
 read age
 
+echo " Details of Doctor"
 echo "Name of Doctor: "$name
 echo "Doctor Specality: "$spe
 echo "Doctor Age: "$age
